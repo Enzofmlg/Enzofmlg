@@ -8,7 +8,7 @@
 </div>
 
  ## Learning:
- Cybersecurity | Network security | Junior Pentester
+ Cybersecurity | Network Security | Junior Pentester | Information Security
 
  ### My skills:
 <a><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
