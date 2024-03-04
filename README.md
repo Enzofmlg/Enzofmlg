@@ -19,6 +19,8 @@
 
 <div align="left"> 
 <img src="https://tryhackme-badges.s3.amazonaws.com/zeno.zz.png" alt="TryHackMe" style="border-radius: 30px" target="_blank"></a> 
+  <script src="https://tryhackme.com/badge/2053169"></a>
+  </script>
 </div>
 
  ### Side skills:
