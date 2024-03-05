@@ -18,6 +18,9 @@
 <a><img src="https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=openjdk&logoColor=black"></a>
 
 <div align="left"> 
+ <a href="(https://tryhackme.com/p/zeno.zz)" target="_blank">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/zeno.zz.png" alt="TryHackMe" style="border-radius: 30px">
+    </a>
 </div>
 
  ### Side skills:
