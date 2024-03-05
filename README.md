@@ -18,11 +18,11 @@
 <a><img src="https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=openjdk&logoColor=black"></a>
 
 <div align="left">
-    <a href="URL_DO_SEU_LINK_AQUI" target="_blank">
+    <a href="(https://tryhackme.com/p/zeno.zz)" target="_blank">
         <img src="https://tryhackme-badges.s3.amazonaws.com/zeno.zz.png" alt="TryHackMe" style="border-radius: 30px">
     </a>
-    <script src="https://tryhackme.com/badge/2053169"></script>
 </div>
+
  ### Side skills:
  <a><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
  <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
