@@ -19,7 +19,7 @@
 
 <div align="center">
     <!-- THM BADGES-->
-    <a target="_blank" href="https://tryhackme.com/p/zeno.zz"><img height="70" title="TryHackMe Profile" alt="TryHackMe zeno.zz Profile" src="https://tryhackme-badges.s3.amazonaws.com/zeno.zz.png"></a>
+    <a target="_blank" href="https://tryhackme.com/p/zeno.zz"><img height="65" title="TryHackMe Profile" alt="TryHackMe zeno.zz Profile" src="https://tryhackme-badges.s3.amazonaws.com/zeno.zz.png"></a>
   </div>
 
   <div align="center">
