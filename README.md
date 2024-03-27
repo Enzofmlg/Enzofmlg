@@ -16,12 +16,27 @@
 <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=openjdk&logoColor=black"></a>
-
+###
 <div align="center">
-    <a href="(https://tryhackme.com/p/zeno.zz)" target="_blank">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/zeno.zz.png" alt="TryHackMe" style="border-radius: 30px">
-    </a>
-</div>
+    <!-- <script src="https://tryhackme.com/badge/1134216"></script> -->
+    <a target="_blank" href="https://tryhackme.com/p/zeno.zz"><img height="58" title="TryHackMe Profile" alt="TryHackMe zeno.zz Profile" src="https://tryhackme-badges.s3.amazonaws.com/zeno.zz.png"></a>
+  </div>
+  ### THM Badges:
+  <div align="center">
+    <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/mr-robot">     <img title="Mr. Robot"     alt="TryHackMe badge 1"  src="https://tryhackme.com/img/badges/mrrobot.svg"      width="100"></a>
+    <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/terminaled">   <img title="cat linux.txt" alt="TryHackMe badge 2"  src="https://tryhackme.com/img/badges/linux.svg"        width="100"></a>
+    <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/ohsint">       <img title="OhSINT"        alt="TryHackMe badge 3"  src="https://tryhackme.com/img/badges/ohsint.svg"       width="100"></a>
+    <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/hash-cracker"> <img title="Hash Cracker"  alt="TryHackMe badge 4"  src="https://tryhackme.com/img/badges/hashcracker.svg"  width="100"></a>
+    <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/koth-game">    <img title="ELKsquisite"   alt="TryHackMe badge 5"  src="https://tryhackme.com/img/badges/advancedelk.svg"  width="100"></a>
+    <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/30-day-streak"><img title="30 Day Streak" alt="TryHackMe badge 6"  src="https://tryhackme.com/img/badges/streak30.svg"     width="100"></a>
+  </div>
+  <div align="center">
+    <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/web-fund">     <img title="Webbed"        alt="TryHackMe badge 7"  src="https://tryhackme.com/img/badges/webbed.svg"       width="100"></a>
+    <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/owasp-10">     <img title="OWASP Top 10"  alt="TryHackMe badge 10" src="https://tryhackme.com/img/badges/owasptop10.svg"   width="100"></a>
+  </div>
+  <br>
+
+###
 <!--- Side skills -->
  ### Side skills:
  <div aling="left">
