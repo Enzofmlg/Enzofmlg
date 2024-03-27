@@ -9,7 +9,7 @@
 
  ## Learning:
  Cybersecurity | Network Security | Junior Pentester | Information Security | CTF
-
+<!--- Main skills -->
  ### My skills:
 <a><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
@@ -17,12 +17,12 @@
 <a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=openjdk&logoColor=black"></a>
 
-<div align="left">
+<div align="center">
     <a href="(https://tryhackme.com/p/zeno.zz)" target="_blank">
         <img src="https://tryhackme-badges.s3.amazonaws.com/zeno.zz.png" alt="TryHackMe" style="border-radius: 30px">
     </a>
 </div>
-
+<!--- Side skills -->
  ### Side skills:
  <a><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
  <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
