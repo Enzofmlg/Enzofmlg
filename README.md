@@ -19,7 +19,7 @@
 
 <div align="center">
     <!-- THM BADGES-->
-    <a target="_blank" href="https://tryhackme.com/p/zeno.zz"><img height="58" title="TryHackMe Profile" alt="TryHackMe zeno.zz Profile" src="https://tryhackme-badges.s3.amazonaws.com/zeno.zz.png"></a>
+    <a target="_blank" href="https://tryhackme.com/p/zeno.zz"><img height="58" title="TryHackMe Profile" alt="TryHackMe zeno.zz Profile" src="https://tryhackme-badges.s3.amazonaws.com/zeno.zz.png  width="100px" "></a>
   </div>
 
   <div align="center">
@@ -33,6 +33,7 @@
   <div align="center">
     <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/web-fund">     <img title="Webbed"        alt="TryHackMe badge 7"  src="https://tryhackme.com/img/badges/webbed.svg"       width="100"></a>
     <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/owasp-10">     <img title="OWASP Top 10"  alt="TryHackMe badge 10" src="https://tryhackme.com/img/badges/owasptop10.svg"   width="100"></a>
+    <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/adventofcyber5"><img title="adventofcyber5" alt="TryHackMe badge 8" src="https://tryhackme.com/img/badges/adventofcyber5.svg" width="100"></a>
   </div>
   <br>
 
