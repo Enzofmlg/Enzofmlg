@@ -8,9 +8,9 @@
 </div>
 
  <h2> Learning:</h2>
-  Cybersecurity | Network Security | Junior Pentester | Information Security | CTF </h2>
+  Cybersecurity | Network Security | Junior Pentester | Information Security | CTF </h2><br>
 <!--- Main skills -->
- 
+ <br>
 <div align="center">
 <h1> My skills:</h1>
 <br>
