@@ -7,21 +7,25 @@
   <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzofmlg&layout=compact&hide_border=true&title_color=7FFFD4&text_color=7FFFD4&bg_color=0D1117" />
 </div>
 
- ## Learning:
+ <h2> Learning:</h2>
  Cybersecurity | Network Security | Junior Pentester | Information Security | CTF
 <!--- Main skills -->
- ### My skills:
-<a><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-<a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=openjdk&logoColor=black"></a>
-
+ 
+<div align="center">
+<h1> My skills:</h1>
+<br>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=openjdk&logoColor=black">
+</div>
+<br>
 <div align="center">
     <!-- THM BADGES-->
     <a target="_blank" href="https://tryhackme.com/p/zeno.zz"><img height="65" title="TryHackMe Profile" alt="TryHackMe zeno.zz Profile" src="https://tryhackme-badges.s3.amazonaws.com/zeno.zz.png"></a>
   </div>
-
+<br>
   <div align="center">
     <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/mr-robot">     <img title="Mr. Robot"     alt="TryHackMe badge 1"  src="https://tryhackme.com/img/badges/mrrobot.svg"      width="100"></a>
     <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/terminaled">   <img title="cat linux.txt" alt="TryHackMe badge 2"  src="https://tryhackme.com/img/badges/linux.svg"        width="100"></a>
@@ -37,19 +41,20 @@
   </div>
   <br>
 
-###
 <!--- Side skills -->
- ### Side skills:
- <div aling="left">
- <a><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
- <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
- <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
- <a><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
- <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a> </div>
+  <div aling="center">
+  <h2> Side skills:</h2>
+    <br>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+</div>
   <br>
  
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Enzofmlg}/count.svg" /></p> 
 <br>
 </div>
