@@ -8,7 +8,7 @@
 </div>
 
  <h2> Learning:</h2>
- Cybersecurity | Network Security | Junior Pentester | Information Security | CTF
+  Cybersecurity | Network Security | Junior Pentester | Information Security | CTF </h2>
 <!--- Main skills -->
  
 <div align="center">
