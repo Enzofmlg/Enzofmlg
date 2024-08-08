@@ -7,7 +7,7 @@
 </div>
 
 <h2 align="center"> Learning:</h2>
-<p align="center">Cyber Security | Network Security | Junior Pentester | Python | Information Security | CTF Player</p>
+<p align="center"><b>Cyber Security | Network Security | Junior Pentester | Python | Information Security | CTF Player</b></p>
 <br>
 
 <!--- Main skills -->
