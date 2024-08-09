@@ -9,6 +9,13 @@
 <h2 align="center"> Learning:</h2>
 <p align="center"><b>Cyber Security | Network Security | Junior Pentester | Python | Information Security | CTF Player</b></p>
 <br>
+<!---About Me---->
+<h3 align="center"> About me :</h3>
+<div align="center">
+    <a href="https://www.linkedin.com/in/enzo-frederico-lenzi-b838a5272/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.youtube.com/@zeno-zz"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=black"></a>
+</div>
+<br>
 
 <!--- Main skills -->
 <div align="center">
@@ -16,7 +23,7 @@
   <br>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=openjdk&logoColor=black">
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
