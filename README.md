@@ -17,9 +17,9 @@
 </div>
 <br>
 
-<!--- Main skills -->
+<!--- Hard skills -->
 <div align="center">
-  <h1>Main skills:</h1>
+  <h1>Hard skills:</h1>
   <br>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -52,9 +52,9 @@
 </div>
 <br>
 <br>
-<!--- Side skills -->
+<!--- Soft skills -->
 <div align="center">
-  <h2>Side skills:</h2>
+  <h2>Soft skills:</h2>
   <br>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
