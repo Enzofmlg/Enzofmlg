@@ -47,8 +47,8 @@
 <br>
 <div align="center">
   <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/web-fund">     <img title="Webbed"        alt="TryHackMe badge 7"  src="https://tryhackme.com/img/badges/webbed.svg"       width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/owasp-10">     <img title="OWASP Top 10"  alt="TryHackMe badge 10" src="https://tryhackme.com/img/badges/owasptop10.svg"   width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/adventofcyber5"><img title="adventofcyber5" alt="TryHackMe badge 8" src="https://tryhackme.com/img/badges/adventofcyber5.svg" width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/owasp-10">     <img title="OWASP Top 10"  alt="TryHackMe badge 8" src="https://tryhackme.com/img/badges/owasptop10.svg"   width="100"></a>
+ <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/intro-to-pentesting"><img title="intro to pentesting" alt="TryHackMe badge 9" src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" width="100"></a>
 </div>
 <br>
 <br>
