@@ -33,7 +33,7 @@
 <br>
 <div align="center">
   <!-- THM BADGES-->
- <a target="_blank" href="https://tryhackme.com/p/zeno.zz"><img height="65" src="https://tryhackme-badges.s3.amazonaws.com/0day.png" alt="TryHackMe"></a> 
+ <a target="_blank" href="https://tryhackme.com/p/zeno.zz"><img height="65" src="https://tryhackme-badges.s3.amazonaws.com/zeno.zz.png" alt="TryHackMe"></a> 
 </div>
 <br>
 <div align="center">
