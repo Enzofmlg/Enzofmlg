@@ -33,22 +33,22 @@
 <br>
 <div align="center">
   <!-- THM BADGES-->
- <a target="_blank" href="https://tryhackme.com/p/zeno.zz"><img height="100" src="https://tryhackme-badges.s3.amazonaws.com/zeno.zz.png" alt="TryHackMe"></a> 
+ <a target="_blank" href="https://tryhackme.com/p/11Lnz"><img height="100" src="https://tryhackme-badges.s3.amazonaws.com/zeno.zz.png" alt="TryHackMe"></a> 
 </div>
 <br>
 <div align="center">
-  <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/mr-robot">     <img title="Mr. Robot"     alt="TryHackMe badge 1"  src="https://tryhackme.com/img/badges/mrrobot.svg"      width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/terminaled">   <img title="cat linux.txt" alt="TryHackMe badge 2"  src="https://tryhackme.com/img/badges/linux.svg"        width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/ohsint">       <img title="OhSINT"        alt="TryHackMe badge 3"  src="https://tryhackme.com/img/badges/ohsint.svg"       width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/hash-cracker"> <img title="Hash Cracker"  alt="TryHackMe badge 4"  src="https://tryhackme.com/img/badges/hashcracker.svg"  width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/koth-game">    <img title="ELKsquisite"   alt="TryHackMe badge 5"  src="https://tryhackme.com/img/badges/advancedelk.svg"  width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/30-day-streak"><img title="30 Day Streak" alt="TryHackMe badge 6"  src="https://tryhackme.com/img/badges/streak30.svg"     width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/11Lnz/badges/mr-robot">     <img title="Mr. Robot"     alt="TryHackMe badge 1"  src="https://tryhackme.com/img/badges/mrrobot.svg"      width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/11Lnz/badges/terminaled">   <img title="cat linux.txt" alt="TryHackMe badge 2"  src="https://tryhackme.com/img/badges/linux.svg"        width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/11Lnz/badges/ohsint">       <img title="OhSINT"        alt="TryHackMe badge 3"  src="https://tryhackme.com/img/badges/ohsint.svg"       width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/11Lnz/badges/hash-cracker"> <img title="Hash Cracker"  alt="TryHackMe badge 4"  src="https://tryhackme.com/img/badges/hashcracker.svg"  width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/11Lnz/badges/koth-game">    <img title="ELKsquisite"   alt="TryHackMe badge 5"  src="https://tryhackme.com/img/badges/advancedelk.svg"  width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/11Lnz/badges/30-day-streak"><img title="30 Day Streak" alt="TryHackMe badge 6"  src="https://tryhackme.com/img/badges/streak30.svg"     width="100"></a>
 </div>
 <br>
 <div align="center">
-  <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/web-fund">     <img title="Webbed"        alt="TryHackMe badge 7"  src="https://tryhackme.com/img/badges/webbed.svg"       width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/owasp-10">     <img title="OWASP Top 10"  alt="TryHackMe badge 8" src="https://tryhackme.com/img/badges/owasptop10.svg"   width="100"></a>
- <a target="_blank" href="https://tryhackme.com/zeno.zz/badges/intro-to-pentesting"><img title="intro to pentesting" alt="TryHackMe badge 9" src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/11Lnz/badges/web-fund">     <img title="Webbed"        alt="TryHackMe badge 7"  src="https://tryhackme.com/img/badges/webbed.svg"       width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/11Lnz/badges/owasp-10">     <img title="OWASP Top 10"  alt="TryHackMe badge 8" src="https://tryhackme.com/img/badges/owasptop10.svg"   width="100"></a>
+ <a target="_blank" href="https://tryhackme.com/11Lnz/badges/intro-to-pentesting"><img title="intro to pentesting" alt="TryHackMe badge 9" src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" width="100"></a>
 </div>
 <br>
 <br>
