@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Enzo+Lenzi;aka+11Lnz;Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzofmlg&layout=compact&hide_border=true&title_color=7FFFD4&text_color=7FFFD4&bg_color=0D1117" />
+  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzofmlg&layout=compact&hide_border=true&title_color=7FFFD4&text_color=7FFFD4&bg_color=0D1117"/>
 </div>
 
 <h2 align="center"> Learning:</h2>
