@@ -9,9 +9,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+<p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/11Lnz.png" alt="TryHackMe Badge">
 <br>
 <br>
 <br>
