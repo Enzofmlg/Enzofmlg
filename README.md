@@ -12,19 +12,7 @@
 <p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/11Lnz.png" alt="TryHackMe Badge">
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 <!---About Me---->
 <h3 align="center"> More about me </h3>
@@ -41,4 +29,3 @@
 <br>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0033&height=120&section=footer"/>
