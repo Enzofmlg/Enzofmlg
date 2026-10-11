@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0033&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Enzo+Lenzi;aka+11Lnz;Welcome!+:%29)](https://git.io/typing-svg)
 
 <h3 align="center" style="font-size:18px; font-weight:bold; line-height:1.5;">
-  Offensive Security | Red Team | Pentester | Information Security | CTF Player
+  Offensive Security
 </h3>
 
 <br><br>
